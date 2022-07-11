@@ -1,5 +1,6 @@
 Algoritmo "VoandoAlto"
-
+// Aluno: Adriana Albuquerque de Almeida
+// Recode Pro
 
 tipo
 
