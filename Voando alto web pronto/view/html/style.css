@@ -1,0 +1,30 @@
+.header{
+
+box-sizing: content-box;
+display: flex;
+flex-direction:row;
+width: 20px;
+height: 20px;
+
+
+}
+.home{
+text-align: center;
+}
+
+
+
+
+
+
+#menu{
+
+  flex-direction: row;
+  font-size: 30px;  
+  padding-left:30px ;
+}
+
+.rounded{
+
+  width: 20px;
+}

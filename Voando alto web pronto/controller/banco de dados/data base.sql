@@ -1,0 +1,2 @@
+insert into cliente( adriana );
+
